@@ -2,7 +2,7 @@
 
 ## Scope
 
-* Create a hello-world Azure function with Http trigger using dotnet core 2.2 C#
+* Create a hello-world Azure function with Http trigger using dotnet core 2.2 C# running on Linux
 * Store code in Bitbucket.org
 * On commit to `master` branch of the Bitbucket.org repo, trigger a build
 * Build to compile the code, to run unit tests, and to create a deployment artifact with version number
