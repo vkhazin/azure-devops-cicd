@@ -26,6 +26,7 @@
 ### Step 1.4:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%204.PNG)
 
+
 ## 2: Create Build Pipeline - [Azure DevOps](http://devops.azure.com/)
 
 ### Step 2.1:
@@ -52,6 +53,37 @@
 ### Step 2.8:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d8.PNG)
 
+
+## 3: Create Release Pipeline - [Azure DevOps](http://devops.azure.com/)
+
+### Step 3.1:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d9.PNG)
+
+### Step 3.2:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d10.PNG)
+
+### Step 3.3:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d11.PNG)
+
+### Step 3.4:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d12.PNG)
+
+### Step 3.5:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d13.PNG)
+
+### Step 3.6:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d14.PNG)
+
+### Step 3.7:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d15.PNG)
+
+### Step 3.8:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d16.PNG)
+
+### Step 3.9:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/d17.PNG)
+
+
 ## 4: Create Bitbukcet Repository - [Bitbucket.org](https://bitbucket.org/)
 
 ### Step 4.1:
@@ -65,6 +97,7 @@
 
 ### Step 4.4:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/B%204.PNG)
+
 
 ## 5: Create Bitbukcet Repository - [Bitbucket.org](https://bitbucket.org/)
 
