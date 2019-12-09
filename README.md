@@ -9,3 +9,19 @@
 * Upload generated artifact to Azure Artifacts
 * Deploy generated binary artifact to Azure function
 * Document steps and provide walk through
+
+--------------------------------------------------------------
+
+# Create Function App in Azure
+
+* Step 1:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%201.PNG)
+
+* Step 2:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%202.PNG)
+
+* Step 3:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%203.PNG)
+
+* Step 4:
+![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%204.PNG)
