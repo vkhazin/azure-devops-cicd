@@ -12,16 +12,16 @@
 
 --------------------------------------------------------------
 
-# Create Function App in Azure
+## Create Function App in Azure
 
-* Step 1:
+### Step 1:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%201.PNG)
 
-* Step 2:
+### Step 2:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%202.PNG)
 
-* Step 3:
+### Step 3:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%203.PNG)
 
-* Step 4:
+### Step 4:
 ![](https://github.com/MuddassirNayyer/azure-devops-cicd/blob/master/Images/AZ%204.PNG)
